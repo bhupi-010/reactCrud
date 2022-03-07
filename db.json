@@ -1,0 +1,94 @@
+ { 
+     "user":[
+    {
+        "id": "1",
+      "name": "ram",
+      "age": "26",
+      "address":[
+          {
+              "dist": "Bengaluru",
+              "zone": "Karnataka",
+              "location": [
+                    {
+                        "place": "",
+                        "period": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "shyam",
+        "age": "22",
+        "address":[
+            {
+                "dist": "kanchanpur",
+                "zone": "mahakali",
+                "location": [
+                    {
+                        "place": "",
+                        "period": ""
+                    }
+                ]
+            }
+        ]
+      
+    },
+    {
+      
+        "id": "3",
+        "name": "Hari",
+        "age": "30",
+        "address":[
+            {
+                "dist": "kailali",
+                "zone": "seti",
+                "location": [
+                    {
+                        "place": "",
+                        "period": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "krishna",
+        "age": "18",
+        "address":[
+            {
+                "dist": "Dolpa",
+                "zone": "karnali",
+                "location": [
+                    {
+                        "place": "",
+                        "period": ""
+                    }
+                ]
+            }
+        ]
+        
+    },
+    {
+        "id": "5",
+        "name": "arjun",
+        "age": "28",
+        "address":[
+            {
+                "dist": "palpa",
+                "zone": "lumbini",
+                "location": [
+                    {
+                        "place": "",
+                        "period": ""
+                    }
+                ]
+            }
+        ]
+       
+    }
+    
+  ]
+}
